@@ -1,6 +1,7 @@
 # Apex Pandora Bot 🇰🇭
 
 Apex Pandora Bot is a Discord Text-to-Speech (TTS) bot built with JavaScript and Node.js. It can join Discord voice channels and convert Khmer text into natural-sounding speech in real time.
+Bot link : https://discord.com/oauth2/authorize?client_id=1506653787811614880&permissions=3152896&integration_type=0&scope=bot
 
 ## Features
 
